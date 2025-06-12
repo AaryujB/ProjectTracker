@@ -1,10 +1,6 @@
-# 🗂️ Project Tracker
 
-A simple full-stack web application to manage and track projects, built using **FastAPI** for the backend and **vanilla HTML, CSS, and JavaScript** for the frontend. The app allows users to create, view, update, and delete project records.
 
----
-
-## 📦 Features
+## Features
 
 - RESTful API with FastAPI and SQLite
 - CORS-enabled for frontend-backend communication
@@ -13,9 +9,8 @@ A simple full-stack web application to manage and track projects, built using **
 - Responsive UI with modal-based forms
 - Lightweight, no frontend framework required
 
----
 
-## 🛠 Tech Stack
+Tech Stack
 
 **Backend:**
 - Python 3
@@ -28,11 +23,9 @@ S**Frontend:**
 - CSS3
 - JavaScript (Vanilla)
 
----
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
+**Clone the Repository**
 
 ```bash
 git clone https://github.com/your-username/project-tracker.git
